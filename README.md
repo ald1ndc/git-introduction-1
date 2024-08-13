@@ -15,6 +15,9 @@ $ git pull -> only after cloning. everytime if there is some changes on remote r
 $ git status -> to check the status of the repo
 
 $ git add . -> to ADD ALL changes made to stage
+
 $ git add <path/filename> -> to add specific changes made to stage
+
 $ git commit -m "CHanges on README.md"
+
 $ git push
