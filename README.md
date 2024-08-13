@@ -21,3 +21,5 @@ $ git add <path/filename> -> to add specific changes made to stage
 $ git commit -m "CHanges on README.md" -> to commit changes to local repository
 
 $ git push -> to transfer all commits from local repository to remote repository
+
+$ git branch -> 
