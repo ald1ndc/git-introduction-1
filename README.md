@@ -1,5 +1,5 @@
 # git-introduction-1
-How to Install GIT
+How to Install GIT - WEB-1
 This is the link to install GIT
 
 https://github.com/git-guides/install-git
