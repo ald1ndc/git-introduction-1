@@ -6,6 +6,7 @@ https://github.com/git-guides/install-git
 
 Commands that are important:
 
+```
 $ git clone -> for the first time cloning repo to local
 
   NOTE: need to change dir/folder to cloned repo
@@ -23,3 +24,4 @@ $ git commit -m "CHanges on README.md" -> to commit changes to local repository
 $ git push -> to transfer all commits from local repository to remote repository
 
 $ git branch -> 
+```
