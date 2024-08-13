@@ -1,6 +1,6 @@
 # git-introduction-1
 
-##How to Install GIT
+## How to Install GIT
 
 **This is the link to install GIT**
 
